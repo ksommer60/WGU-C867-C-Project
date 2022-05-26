@@ -1,0 +1,31 @@
+﻿  main.cpp
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\main.cpp(37,70): error C2660: 'Roster::printAverageDaysInCourse': function does not take 0 arguments
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.h(16,7): message : see declaration of 'Roster::printAverageDaysInCourse'
+  roster.cpp
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(84,18): error C2600: 'Roster::Roster': cannot define a compiler-generated special member function (must be declared in the class first)
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(129,50): error C2144: syntax error: 'int' should be preceded by ')'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(129,54): error C2660: 'Student::getlengthOfClass': function does not take 0 arguments
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\student.h(18,6): message : see declaration of 'Student::getlengthOfClass'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(129,50): error C2144: syntax error: 'int' should be preceded by ';'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(129,59): error C2059: syntax error: ')'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(132,50): error C2144: syntax error: 'int' should be preceded by ')'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(132,54): error C2660: 'Student::getlengthOfClass': function does not take 0 arguments
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\student.h(18,6): message : see declaration of 'Student::getlengthOfClass'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(132,50): error C2144: syntax error: 'int' should be preceded by ';'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(132,59): error C2059: syntax error: ')'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(135,50): error C2144: syntax error: 'int' should be preceded by ')'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(135,54): error C2660: 'Student::getlengthOfClass': function does not take 0 arguments
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\student.h(18,6): message : see declaration of 'Student::getlengthOfClass'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(135,50): error C2144: syntax error: 'int' should be preceded by ';'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(135,59): error C2059: syntax error: ')'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(167,40): error C2678: binary '==': no operator found which takes a left-hand operand of type 'StudentDegreeProgram' (or there is no acceptable conversion)
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(167,40): message : could be 'built-in C++ operator==(const char [8], const char [8])'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(167,40): message : while trying to match the argument list '(StudentDegreeProgram, const char [8])'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(170,41): error C2678: binary '==': no operator found which takes a left-hand operand of type 'StudentDegreeProgram' (or there is no acceptable conversion)
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(170,41): message : could be 'built-in C++ operator==(const char [9], const char [9])'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(170,41): message : while trying to match the argument list '(StudentDegreeProgram, const char [9])'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(173,41): error C2678: binary '==': no operator found which takes a left-hand operand of type 'StudentDegreeProgram' (or there is no acceptable conversion)
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(173,41): message : could be 'built-in C++ operator==(const char [9], const char [9])'
+D:\VisualStudios\C867PreformanceAssessment\C867PreformanceAssessment\roster.cpp(173,41): message : while trying to match the argument list '(StudentDegreeProgram, const char [9])'
+  student.cpp
+  Generating Code...
